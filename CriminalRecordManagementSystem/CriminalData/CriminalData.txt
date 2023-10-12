@@ -1,0 +1,2 @@
+1,C:\Users\Jean\Documents\try.jpg,123,Moana,Female,21,Abortion,American,Yes,8 Months
+2,C:\Users\Jean\Documents\try.jpg,1234,Moana,Female,21,Abortion,American,No,8 Months
